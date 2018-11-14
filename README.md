@@ -6,7 +6,9 @@ Documentation, plans, and files  for the Bobby-B-Bot.
 |:------:|:--------:|
 |Overview|[Link]()  |
 |BOM     |[Link]()  |
-|
+|Configuration| [Link]() |
+|Write-up| [Link]() |
+
 ## Overview
 The design intent with the Bobby-B-Bot was to create a robust motion platform that can be configured for a number of applications such as 3D printing, milling, plotting, and laser etching. For the most part it was designed with 3D printing and light milling operations in mind. 
 ### 3D printer Design Intent:
@@ -38,5 +40,5 @@ The design intent with the Bobby-B-Bot was to create a robust motion platform th
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzU5MjkzNSw3MDE1OTk4MzFdfQ==
+eyJoaXN0b3J5IjpbODA5NjYwNTU0LDcwMTU5OTgzMV19
 -->
