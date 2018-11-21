@@ -1,5 +1,5 @@
 # Bobby-B-Bot
-![Core XY Printer Assembly](https://i.imgur.com/IPN1K9y.png =565x603)
+![Core XY Printer Assembly](Documentation/Pictures/00_Master_Assembly)
 Documentation, plans, and files  for the Bobby-B-Bot.
 ## Table of Contents
 | Topic  | Resource |
