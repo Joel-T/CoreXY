@@ -1,13 +1,14 @@
 # Bobby-B-Bot
-![Core XY Printer Assembly](Documentation/Pictures/00_Master_Assembly)
+![Core XY Printer Assembly](Documentation/Pictures/00_Master_Assembly.PNG)
+
 Documentation, plans, and files  for the Bobby-B-Bot.
 ## Table of Contents
 | Topic  | Resource |
 |:------:|:--------:|
-|Overview|[Link]()  |
-|BOM     |[Link]()  |
-|Configuration| [Link]() |
-|Write-up| [Link]() |
+|Overview|[Link](Documentation/)  |
+|BOM     |[Link](Documentation/01_BOM.md)  |
+|Configuration| [Link](Documentation/) |
+|Write-up| [Link](Documentation/) |
 
 ## Overview
 The design intent with the Bobby-B-Bot was to create a robust motion platform that can be configured for a number of applications such as 3D printing, milling, plotting, and laser etching. For the most part it was designed with 3D printing and light milling operations in mind. 
@@ -36,9 +37,3 @@ The design intent with the Bobby-B-Bot was to create a robust motion platform th
 
 
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5NjYwNTU0LDcwMTU5OTgzMV19
--->
