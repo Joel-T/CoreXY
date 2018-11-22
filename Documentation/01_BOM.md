@@ -1,7 +1,7 @@
 ## Bill of Materials
 
 |  | Part Name | Number Needed |
-|:---:| ---:|:---:|
+|:---:|:---:|:---:|
 | 2040 Extrusion | 210mm | 1 |
 |  | 415mm | 1 |
 |  | 470mm | 1 |
