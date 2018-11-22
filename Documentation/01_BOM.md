@@ -1,31 +1,27 @@
+## Bill of Materials
+
 |  | Part Name | Number Needed |
-|  |  |  |
+|:---:| ---:|:---:|
 | 2040 Extrusion | 210mm | 1 |
 |  | 415mm | 1 |
 |  | 470mm | 1 |
 |  | 500mm | 8 |
 |  | 550mm | 8 |
 |  | 800mm | 4 |
-|  |  |  |
 | 2060 Extrusion | 470mm | 1 |
 | 4040 Extrusion |  |  |
 |  | 800mm | 2 |
-|  |  |  |
 | Aluminum Plate | 3.5" x 24" x 1/4" | 2 |
 |  | 40mm x 48" x 5mm | 2 |
 |  | 12" x 12" x 3/8" Mic6 | 1 |
-|  |  |  |
 | Aluminum Tubing | 2" x 2" x 24" | 1 |
 |  | 2" x 3" x 12" | 1 |
-|  |  |  |
 | Linear Rails | HGH 15 | 2 |
 |  | HGH 20 | 1 |
 |  | MGW 12 | 2 |
-|  |  |  |
 | Linear Rail Block | HGH 15 Square Low | 2 |
 |  | HGH 20 Square Low | 2 |
 |  | MGW 12 Long | 2 |
-|  |  |  |
 | Hardware | M4 Drop in nut | 72 |
 |  | M5 Drop in nut | 24 |
 |  | M4 LP nut | 1 pack |
@@ -66,7 +62,6 @@
 |  | Thrust Bearing 1/4" Bore 5/8" OD 1/16" Thick | 10 |
 |  | 608 Bearing | 2-4 |
 |  | Titan Aero | 1 |
-|  |  |  |
 | Electronics | Duet | 1 |
 |  | PT100 Daughter Board | 1 |
 |  | Nema 17 Stepper 0.9* LP | 1 |
@@ -76,7 +71,6 @@
 |  | 4020 Blower Fan | 1 |
 |  | Meanwell 350W PSU | 1 |
 |  | Cooling Fan | 1 |
-|  |  |  |
 | Printed Parts | Chain Link Pair | 18 |
 |  | Corner Bracket | 4 |
 |  | Corner Bracket Mirror | 4 |
