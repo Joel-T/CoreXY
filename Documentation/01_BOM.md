@@ -108,3 +108,4 @@
 |  | Titan Areo | 1 |
 |  | Duet Board Mount | 1 |
 |  | Belt Tension Mount | 1 |
+|  | Nema 23 Mount | 1 |
