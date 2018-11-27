@@ -107,3 +107,4 @@
 |  | Hotend Fan | 1 |
 |  | Titan Areo | 1 |
 |  | Duet Board Mount | 1 |
+|  | Belt Tension Mount | 1 |
