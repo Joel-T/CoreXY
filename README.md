@@ -12,7 +12,7 @@ Documentation, plans, and files  for the Bobby-B-Bot.
 |Write-up| [Link](Documentation/) |
 
 ## Overview
-The design intent with the Bobby-B-Bot was to create a robust motion platform that can be configured for a number of applications such as 3D printing, milling, plotting, and laser etching. For the most part it was designed with 3D printing and light milling operations in mind. 
+The design intent with the Bobby-B-Bot was to create a robust motion platform that can be configured for a number of applications such as 3D printing, milling, plotting, and laser etching. For the most part it was designed with 3D printing and light milling operations in mind. All the CAD files can be found [here](https://cad.onshape.com/documents/18637875b7d2e18a93680179/w/3b639fd9ca025fb797f3234e/e/9d016b471f48ac678f5c7690) on my Onshape. I plan to completely remodel the Bobby-B-Bot in Fusion when I get the chance.
 ### 3D printer Design Intent:
 1. Core XY Kinematics
 2. Rigid Frame
