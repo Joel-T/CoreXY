@@ -35,6 +35,7 @@
 |  | M5 LP nut | 1 pack |
 |  | M6 LP nut | 4 |
 |  | M6 nut | 22 |
+|  | M8 LP nut | 2 |
 |  | M2 x 12mm | 4 |
 |  | M3 x 8mm | 8 |
 |  | M3 x 12mm | 2 |
@@ -48,6 +49,7 @@
 |  | M6 x 16mm | 6 |
 |  | M6 x 35mm | 16 |
 |  | M6 x 45mm | 2 |
+|  | M8 x 25mm | 2 |
 |  | 1/4" Shoulder Screw 2" Shoulder | 4 |
 |  | 1/4" Shoulder Screw 3-1/4" Shoulder | 2 |
 |  | 10-24 Thin Nut | 6 |
