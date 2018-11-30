@@ -3,4 +3,4 @@ This section will cover the initial configuration of the Duet controller for the
 
 To start we use the [RepRap Config Tool](https://configurator.reprapfirmware.org/Start) to generate the initial configuration file.
 
-![RepRap Config Tool](Documentation/Pictures/01_RepRapConfig_1.png)
+![RepRap Config Tool](Pictures/01_RepRapConfig_1.png)
