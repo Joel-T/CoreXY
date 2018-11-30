@@ -6,9 +6,9 @@ Documentation, plans, and files  for the Bobby-B-Bot.
 | Topic  | Resource |
 |:------:|:--------:|
 |Overview|[Link](README.md)  |
-|BOM     |[Link](Documentation/01_BOM.md)  |
+|BOM     |[Link](Documentation/BOM.md)  |
 |Parts   |[Link](Documentation/Parts) |
-|Configuration| [Link](Documentation/03_Configuration.md) |
+|Configuration| [Link](Documentation/Configuration.md) |
 |Write-up| [Link](Documentation/) |
 
 ## Overview
