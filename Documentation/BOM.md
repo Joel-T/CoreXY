@@ -81,6 +81,7 @@
 |  | 4020 Blower Fan | 1 |
 |  | Meanwell 350W PSU | 1 |
 |  | Cooling Fan | 1 |
+|  | NC Micro Switch | 2 |
 | Printed Parts |  |  |
 |  | Chain Link Pair | 18 |
 |  | Corner Bracket | 4 |
