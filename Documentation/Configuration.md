@@ -7,6 +7,7 @@ To start we use the [RepRap Config Tool](https://configurator.reprapfirmware.org
 
 1. First start by selecting the custom configuration option and click next.
 2. On this page enable the Read config-override.g option and make sure to select the CoreXY Geometry option. For the axis min and max see the following table: 
+
 | Axis  | Position |
 | :--:  | :------: |
 | X Min |    0     |
