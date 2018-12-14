@@ -25,3 +25,14 @@ To start we use the [RepRap Config Tool](https://configurator.reprapfirmware.org
 |   Y   |     80       |            10           |        250       |               500               |        1200        |     1 (Y)    |
 |   Z   |     100      |            0.2          |        10        |               20                |        1800        |     2 (Z)    |
 |   E   |     837      |            2            |        20        |               250               |        1000        |     3 (E0)   |
+
+4. The Z-Probe uses the nozzle itself as the contact there is no X or Y offset so that can be left at 0 mm. For the probe type select the "Smart Effector or Piezo" and set the trigger height to -0.2 mm. This value is how you tune your first layer and like all other settings this can be adjusted later through the web interface. Make sure that it is set as a negative value or after probing your hotend **WILL** crash into the bed. I set the Trigger value to 800 so that if the piezo disk has some pressure on it or there is some electrical interference the probe isn't falsely triggered. Recovery time can be left at 0.4 seconds. The Homing Preferences can also be left at their defaults. Endstop configuration is a pretty straight forward affair. A left-front origin is used and the configuration is as follows:
+
+| Axis | Endstop Type | Endstop Location |
+| :--: | :----------: | :--------------: |
+|   X  |  Active high |    At low end    |
+|   Y  |  Active high |    At low end    |
+|   Z  |    Z-Probe   |    At low end    |
+
+
+5. The heater settings are simple even with the bed heater being controlled by a SSR.  
