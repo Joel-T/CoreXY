@@ -74,6 +74,7 @@
 | Electronics |  |  |
 |  | Duet | 1 |
 |  | PT100 Daughter Board | 1 |
+|  | Piezo20 or Universal Kit | 1 |
 |  | Nema 17 Stepper 0.9* LP | 1 |
 |  | Nema 17 Stepper 1.8* | 2 |
 |  | Nema 23 Stepper w/ Brake | 1 |
@@ -110,5 +111,4 @@
 |  | Hotend Fan | 1 |
 |  | Titan Areo | 1 |
 |  | Duet Board Mount | 1 |
-|  | Belt Tension Mount | 1 |
 |  | Nema 23 Mount | 1 |
