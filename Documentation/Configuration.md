@@ -35,4 +35,26 @@ To start we use the [RepRap Config Tool](https://configurator.reprapfirmware.org
 |   Z  |    Z-Probe   |    At low end    |
 
 
-5. The heater settings are simple even with the bed heater being controlled by a SSR.  
+5. The heater settings are simple even with the bed heater being controlled by a SSR. Make sure for the General settings that "Heated Bed" is checked and set to Bang-Bang for control method. For the rest of the heater configuration it is as follows:
+
+| Heater | Type | Temp. Limit | PWM Limit | R25 | β | C | Sensor Channel |
+| :----: | :--: | :---------: | :-------: | :-: | :-:| :-: | :---------: |
+|  Bed   | Heated Bed | 175 | N/A | 100000 | 3950 | 0 | Bed Thermistor   |
+|   E0   | Nozzle | 400 | 100 | N/A | N/A | N/A | MAX31856 on CS1        |
+
+6. On the next page the mesh bed compensation is set up. The print head has a workspace that exceeds the size of the bed so it is important when setting up the mesh leveling that you ensure the probing points are on the bed. For this printer it is as follows:
+
+| X Min | X Max | Y Min | Y Max | Grid Spacing |
+| :---: | :---: | :---: | :---: | :----------: |
+|  15   |  295  |  15   |  295  |      20      |
+
+7. On this page you can name the printer as you see fit and you can also set up the wifi info now to connect to the network that the printer will be on. I advise that after the Duet is setup and configured to go into your router and assign the Duet a fixed IP so that you can easily make a bookmark to the web interface.
+8. For the final page we will be configuring the cooling fans and the z axis brake. There should be three fans, 0, 1, and 2, if there isn't just click the add fan button in the upper right. Fan 0 will be the part cooling fan, fan 1 the hotend fan, and fan 2 the brake. This is set up as such:
+
+| Name | Value | Inverted | Frequency | Thermostatic Control | Monitored Heaters | Thermostatic Mode Trigger Temp. |
+| :--: | :---: | :------: | :-------: | :------------------: | :---------------: | :-----------------------------: |
+| Fan0 |   0   |    No    |    500    |           No         |         N/A       |                 N/A             |
+| Fan1 |  100  |    No    |    500    |          Yes         |         E0        |                 45              |
+| Fan2 |   0   |    No    |    500    |           No         |         N/A       |                 N/A             |
+
+9. Finally click finish and download the bundle as a zip file.
