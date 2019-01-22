@@ -1,7 +1,7 @@
-# Bobby-B-Bot
+# Belted Core XY
 ![Core XY Printer Assembly](Documentation/Pictures/00_Master_Assembly.PNG)
 
-Documentation, plans, and files  for the Bobby-B-Bot.
+Documentation, plans, and files  for the Belted Core XY.
 ## Table of Contents
 | Topic  | Resource |
 |:------:|:--------:|
@@ -13,7 +13,7 @@ Documentation, plans, and files  for the Bobby-B-Bot.
 |Write-up| [Link](Documentation/) |
 
 ## Overview
-The design intent with the Bobby-B-Bot was to create a robust motion platform that can be configured for a number of applications such as 3D printing, light milling, plotting, and laser etching. For the most part it was designed with 3D printing and light milling operations in mind. I plan to completely remodel the Bobby-B-Bot in Fusion when I get the chance so that I can offer more than a step file.
+The design intent with the Belted Core XY was to create a robust motion platform that can be configured for a number of applications such as 3D printing, light milling, plotting, and laser etching. For the most part it was designed with 3D printing and light milling operations in mind. I plan to completely remodel the Belted Core XY in Fusion when I get the chance so that I can offer more than a step file.
 ### 3D printer Design Intent:
 1. Core XY Kinematics
 2. Rigid Frame
