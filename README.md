@@ -7,7 +7,7 @@ Documentation, plans, and files  for the Belted Core XY.
 |:------:|:--------:|
 |Overview|[Link](README.md)  |
 |BOM     |[Link](Documentation/BOM.md)  |
-|Parts   |[Link](Documentation/Parts) |
+|Parts   |[Link](Parts) |
 |Configuration| [Link](Documentation/Configuration.md) |
 |Wiring Guide (WIP) | [Link](Documentation/Wiring.md) |
 |Write-up| [Link](Documentation/) |
